@@ -1,4 +1,4 @@
-# Clock Pug Coding Standard
+# Clock Pug coding standard
 
 ## Usage
 

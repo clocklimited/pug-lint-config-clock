@@ -15,5 +15,8 @@
   "publishConfig": {
     "registry": "http://registry.npmjs.org"
   },
-  "main": "index.js"
+  "main": "index.js",
+  "peerDependencies": {
+    "pug-lint": "^2.2.0"
+  }
 }

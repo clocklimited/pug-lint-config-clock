@@ -1,0 +1,15 @@
+{
+  "name": "pug-lint-config-clock",
+  "version": "1.0.0",
+  "description": "Clock Pug Coding Standard",
+  "author": "Ben Edwards <hello@benedfit.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clocklimited/pug-lint-config-clock.git"
+  },
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org"
+  },
+  "main": "index.js"
+}

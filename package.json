@@ -4,6 +4,10 @@
   "description": "Clock Pug Coding Standard",
   "author": "Ben Edwards <hello@benedfit.com>",
   "license": "ISC",
+  "keywords": [
+    "puglint",
+    "puglintconfig"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/clocklimited/pug-lint-config-clock.git"

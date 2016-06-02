@@ -1,1 +1,1 @@
-module.exports = require('./pug-lintrc.json')
+module.exports = require('./.pug-lintrc.json')

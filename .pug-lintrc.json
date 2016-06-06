@@ -42,6 +42,7 @@
   , "multiLineSeparator": "\n  "
   }
 , "validateDivTags": true
+, "validateExtensions": true
 , "validateIndentation": 2
 , "validateLineBreaks": "LF"
 , "validateSelfClosingTags": true
